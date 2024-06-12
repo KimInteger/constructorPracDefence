@@ -1,0 +1,11 @@
+{
+  "name": "constructorpracdefence",
+  "version": "1.0.0",
+  "description": "\" 디펜스에 사용할 생성자함수를 데이터베이스에서 조회하는 연습 \"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KimInteger",
+  "license": "MIT"
+}
